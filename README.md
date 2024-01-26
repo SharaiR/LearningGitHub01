@@ -17,3 +17,5 @@ Add files:
 Commit:
 `git commit --m 'update readme file'`
 
+Push:
+`git push --set-upstream origin mybranch`
