@@ -19,3 +19,5 @@ Commit:
 
 Push:
 `git push --set-upstream origin mybranch`
+
+`git status`
