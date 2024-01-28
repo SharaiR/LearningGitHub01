@@ -23,6 +23,25 @@ Push:
 `git status`
 
 
+`git log HEAD` - View commit history, starting with the commit pointed to by HEAD.
+`git reset HEAD~1` - Undoing the last commit and moving HEAD back one commit.
+
+
+## Checkout and Switch
+
+### Using git checkout
+`git checkout master` - switch to master branch
+`git checkout -b new_branch` - create and switch to a new branch
+
+### Using git switch
+`git switch feature_branch` - switch to feature_branch branch
+`git switch -c new_branch` - create and switch to a new branch
+
+### 
+`git checkout <commit_SHA>` - Can be used to move HEAD to a "DETACHED HEAD".
+
+
+
 ## GitHub CLI (command-line interface)
 
 1. Open [github cli](https://cli.github.com/manual/gh)
@@ -35,5 +54,4 @@ Push:
 4. Copy code
 5. Open [login device](https://github.com/login/device)
 6. Insert code
-
 
