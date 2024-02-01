@@ -41,9 +41,6 @@ Push:
 `git checkout <commit_SHA>` - Can be used to move HEAD to a "DETACHED HEAD".
 
 
-## Revert
-`git revert <commit_SHA>`
-
 
 ## GitHub CLI (command-line interface)
 
