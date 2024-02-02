@@ -41,7 +41,6 @@ Push:
 `git checkout <commit_SHA>` - Can be used to move HEAD to a "DETACHED HEAD".
 
 
-
 ## GitHub CLI (command-line interface)
 
 1. Open [github cli](https://cli.github.com/manual/gh)
@@ -54,4 +53,3 @@ Push:
 4. Copy code
 5. Open [login device](https://github.com/login/device)
 6. Insert code
-
